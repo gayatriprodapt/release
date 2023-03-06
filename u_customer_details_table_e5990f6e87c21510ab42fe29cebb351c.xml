@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2023-03-06 08:34:17">
+<u_customer_details_table action="INSERT_OR_UPDATE">
+<active>true</active>
+<agent_status/>
+<avatar/>
+<building display_value=""/>
+<calendar_integration>1</calendar_integration>
+<city/>
+<company display_value=""/>
+<cost_center display_value=""/>
+<country/>
+<date_format/>
+<default_perspective display_value=""/>
+<department display_value=""/>
+<edu_status>faculty</edu_status>
+<email/>
+<employee_number/>
+<enable_multifactor_authn>false</enable_multifactor_authn>
+<failed_attempts/>
+<first_name/>
+<gender/>
+<geolocation_tracked>false</geolocation_tracked>
+<hashed_user_id>0dc92488fe7f57728cf5a495289685685d414a57034fd20a5278ed2299ef4bcd</hashed_user_id>
+<home_phone/>
+<internal_integration_user>false</internal_integration_user>
+<introduction/>
+<last_login/>
+<last_login_device/>
+<last_login_time/>
+<last_name>12334</last_name>
+<last_password/>
+<last_position_update/>
+<latitude/>
+<ldap_server display_value=""/>
+<location display_value=""/>
+<locked_out>false</locked_out>
+<longitude/>
+<manager display_value=""/>
+<middle_name/>
+<mobile_phone/>
+<name>12334</name>
+<notification>2</notification>
+<on_schedule/>
+<password_needs_reset>false</password_needs_reset>
+<phone/>
+<photo/>
+<preferred_language/>
+<primary_group display_value=""/>
+<roles/>
+<schedule display_value=""/>
+<source/>
+<state/>
+<street/>
+<sys_class_name>u_customer_details_table</sys_class_name>
+<sys_created_by>8352</sys_created_by>
+<sys_created_on>2022-09-23 11:05:49</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>e5990f6e87c21510ab42fe29cebb351c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>8352</sys_updated_by>
+<sys_updated_on>2022-09-23 11:05:49</sys_updated_on>
+<time_format/>
+<time_sheet_policy display_value=""/>
+<time_zone/>
+<title/>
+<u_bb1_speed/>
+<u_bb2_speed/>
+<u_flexware_asset_id>9967</u_flexware_asset_id>
+<u_gps_id>8765</u_gps_id>
+<u_mobile_number/>
+<u_phone_number/>
+<u_reference_500 display_value=""/>
+<u_sf_hostname>98765</u_sf_hostname>
+<u_sr>4567</u_sr>
+<u_u110_mac_address/>
+<u_wan1_circuit_id/>
+<u_wan1_mac/>
+<u_wan1_modem_type/>
+<u_wan1_provider/>
+<u_wan2_circuit_id/>
+<u_wan2_mac/>
+<u_wan2_modem_type/>
+<u_wan2_provider/>
+<user_name>00000</user_name>
+<user_password/>
+<vip>false</vip>
+<web_service_access_only>false</web_service_access_only>
+<zip/>
+</u_customer_details_table>
+</unload>
