@@ -22,22 +22,22 @@
         <scoped_administration>false</scoped_administration>
         <short_description>Test</short_description>
         <source>x_prna_test_app</source>
-        <store_correlation_id>REPOAPP0000823821</store_correlation_id>
+        <store_correlation_id>REPOAPP0000826916</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>20713</sys_created_by>
         <sys_created_on>2023-03-15 17:03:59</sys_created_on>
         <sys_id>21b697da87e52150ab42fe29cebb35f4</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_updated_by>20713</sys_updated_by>
-        <sys_updated_on>2023-03-15 17:38:29</sys_updated_on>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_updated_by>devops.integration.user</sys_updated_by>
+        <sys_updated_on>2023-03-17 18:22:47</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.2</version>
+        <version>1.0.11</version>
     </sys_app>
 </record_update>
